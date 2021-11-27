@@ -1,0 +1,46 @@
+body{
+
+background: white;
+
+}
+.contenedor{
+
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(250, 70, 70));
+    margin-right: 10%;
+    margin-left: 10%;
+
+}
+.titulo{
+
+padding-top: 15px;
+background-color: #F9F606;
+}
+
+h1{
+    text-align: center;
+    color: #032A3C;
+}
+#logoUsa{
+
+    align-items: 30%;
+    margin-left: 40%;
+    }
+
+    #operaciones{
+
+        margin-left: 45%;
+    }
+
+    .botones{
+
+        margin-left:45%;
+    }
+
+   button{
+
+    background-color: #F9F606;
+    border-radius: 10%;
+    box-shadow: #032A3C;
+   }
+
+   
